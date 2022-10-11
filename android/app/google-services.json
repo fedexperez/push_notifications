@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "149144802328",
+    "project_id": "messaging-fedexperez",
+    "storage_bucket": "messaging-fedexperez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149144802328:android:632a34159bc53029641f6d",
+        "android_client_info": {
+          "package_name": "com.fedexperez.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149144802328-tr17vmdg6i7fs6mdlev52hc5i1jsmjj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fedexperez.notifications",
+            "certificate_hash": "159c7d257ad14a7d8faded4cb8f9a9dd37db0a09"
+          }
+        },
+        {
+          "client_id": "149144802328-tn82bj7ob3iq9cqm6ihjtbm93jpaa9qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCXG9DoHh01Lq0vDkZg47MuHNR1ukfSIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149144802328-tn82bj7ob3iq9cqm6ihjtbm93jpaa9qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
